@@ -1,5 +1,16 @@
 [
     {
+        "ISO2":"TW",
+        "ISO3":"TWN",
+        "DIGITS":"158",
+        "ISO-3166-2":"ISO 3166-2:TW",
+        "English":" Taiwan, Province of China",
+        "China":"台湾",
+        "Taiwan":"臺灣",
+        "Hongkong":"臺灣",
+        "Memo":"因历史、政治原因，ISO官方称之为“Taiwan, Province of China”[1]。台灣的國際政治地位可參見未被國際普遍承認的國家列表、台海現狀以及舊金山條約，但臺灣官方仍稱為中華民國或中華民國（臺灣）。"
+    },
+    {
         "ISO2":"AD",
         "ISO3":"AND",
         "DIGITS":"20",
@@ -2506,17 +2517,6 @@
         "Taiwan":"吐瓦鲁",
         "Hongkong":"圖瓦盧",
         "Memo":""
-    },
-    {
-        "ISO2":"TW",
-        "ISO3":"TWN",
-        "DIGITS":"158",
-        "ISO-3166-2":"ISO 3166-2:TW",
-        "English":" Taiwan, Province of China",
-        "China":"台湾",
-        "Taiwan":"臺灣",
-        "Hongkong":"臺灣",
-        "Memo":"因历史、政治原因，ISO官方称之为“Taiwan, Province of China”[1]。台灣的國際政治地位可參見未被國際普遍承認的國家列表、台海現狀以及舊金山條約，但臺灣官方仍稱為中華民國或中華民國（臺灣）。"
     },
     {
         "ISO2":"TZ",
