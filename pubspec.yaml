@@ -1,7 +1,7 @@
 name: constants
 description: mirrormedia constants
-version: 2.0.2
+version: 2.0.3
 
 environment:
-  sdk: '>=2.12.0 <=3.4.4'
+  sdk: '>=2.12.0 <=3.7.2'
   flutter: ">=1.10.0 <2.0.0"
