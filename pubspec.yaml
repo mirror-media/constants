@@ -3,5 +3,5 @@ description: mirrormedia constants
 version: 2.0.3
 
 environment:
-  sdk: '>=2.12.0 <=3.7.2'
-  flutter: ">=1.10.0 <2.0.0"
+  sdk: ">=3.4.0 <4.0.0"
+  flutter: ">=3.22.0"
